@@ -1,3 +1,12 @@
-body {
+h1 {
+    font-size: 2em;
+    color: #333;
     
+}
+
+pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
 }
